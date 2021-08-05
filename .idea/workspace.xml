@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1115d7d9-11b9-4b00-908d-87098ed796de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo1/src/assets/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/components/Aside.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/components/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/utils/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_unknown.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1" beforeDir="false" afterPath="$PROJECT_DIR$/demo1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/views/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoafter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoafter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoafter/src/main/java/com/atjh/demoafter/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoafter/src/main/java/com/atjh/demoafter/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -55,7 +41,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -97,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628096254437</updated>
       <workItem from="1628096258312" duration="142000" />
-      <workItem from="1628128356799" duration="12100000" />
+      <workItem from="1628128356799" duration="14571000" />
     </task>
     <servers />
   </component>
@@ -125,38 +116,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="548" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1628132428997" />
-    <state width="1493" height="146" key="GridCell.Tab.0.bottom" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.0.center" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.0.left" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.0.right" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.1.bottom" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.1.bottom" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.1.center" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.1.center" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.1.left" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.1.left" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
-    <state width="1493" height="146" key="GridCell.Tab.1.right" timestamp="1628150149705">
+    <state width="1493" height="157" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
+    <state width="1493" height="157" key="GridCell.Tab.1.right" timestamp="1628156272804">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="146" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1628150149705" />
+    <state width="1493" height="157" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1628156272804" />
     <state width="1493" height="146" key="GridCell.Tab.2.bottom" timestamp="1628150149705">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -185,16 +176,5 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1628146116354" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/demoafter/src/main/java/com/atjh/demoafter/controller/UserController.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
