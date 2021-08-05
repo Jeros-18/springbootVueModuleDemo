@@ -20,12 +20,38 @@ public class UserController {
     @Resource
     UserMapper userMapper;
 
+    /**
+     * 新增
+     * @param user
+     * @return
+     */
     @PostMapping
     public Result<?> save(@RequestBody User user){
+        if(user.getPassword()==null){
+            user.setPassword("12345");
+        }
         userMapper.insert(user);
         return Result.success();
     }
 
+    /**
+     * 更新
+     * @param user
+     * @return
+     */
+    @PutMapping
+    public Result<?> update(@RequestBody User user){
+        userMapper.updateById(user);
+        return Result.success();
+    }
+
+    /**
+     * 查询
+     * @param pageNum
+     * @param pageSize
+     * @param search
+     * @return
+     */
     @GetMapping
     public Result<?> findPage(@RequestParam(defaultValue = "1") Integer pageNum,
                               @RequestParam(defaultValue = "10") Integer pageSize,
