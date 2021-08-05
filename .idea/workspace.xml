@@ -7,6 +7,7 @@
       <change afterPath="$PROJECT_DIR$/demo1/src/components/Header.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo1/src/utils/request.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo1/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1" beforeDir="false" afterPath="$PROJECT_DIR$/demo1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/babel.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/package.json" afterDir="false" />
@@ -95,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628096254437</updated>
       <workItem from="1628096258312" duration="142000" />
-      <workItem from="1628128356799" duration="10794000" />
+      <workItem from="1628128356799" duration="10799000" />
     </task>
     <servers />
   </component>
