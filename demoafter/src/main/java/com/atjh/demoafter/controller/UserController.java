@@ -46,6 +46,17 @@ public class UserController {
     }
 
     /**
+     * 删除
+     * @param id
+     * @return
+     */
+    @DeleteMapping("/{id}")
+    public Result<?> delete(@PathVariable long id){
+        userMapper.deleteById(id);
+        return Result.success();
+    }
+
+    /**
      * 查询
      * @param pageNum
      * @param pageSize
